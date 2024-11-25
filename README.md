@@ -16,7 +16,7 @@ Import a collection na ferramenta postman, e apos subir a imagem e o projeto, ex
 
 The following was discovered as part of building this project:
 
-* The original package name 'com.tj.cadastro-livro-api' is invalid and this project uses 'com.cbyk.cadastro_livro_api' instead.
+* The original package name 'com.tj.cadastro-livro-api' is invalid and this project uses 'com.tj.cadastro_livro_api' instead.
 
 # Getting Started
 

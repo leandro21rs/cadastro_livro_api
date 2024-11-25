@@ -8,7 +8,7 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cbyk</groupId>
+	<groupId>com.tj</groupId>
 	<artifactId>cadastro-livro-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cadastro-livro-api</name>
